@@ -9,12 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/dompurify": "^3.0.5",
     "axios": "^1.7.2",
     "cheerio": "^1.0.0-rc.12",
+    "dompurify": "^3.1.6",
+    "html-to-text": "^9.0.5",
+    "keyword-extractor": "^0.0.28",
+    "natural": "^7.1.0",
     "next": "14.2.5",
+    "node-nlp": "^4.27.0",
     "openai": "^4.53.0",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-tooltip": "^5.27.1",
+    "reading-time": "^1.5.0",
+    "stopword": "^3.0.1"
   },
   "devDependencies": {
     "@types/node": "^20",
